@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsHabr", "EventsHabr\EventsHabr.csproj", "{CDAA0992-5E49-4444-89BE-AE0D4817D149}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDAA0992-5E49-4444-89BE-AE0D4817D149}.Debug|x86.ActiveCfg = Debug|x86
+		{CDAA0992-5E49-4444-89BE-AE0D4817D149}.Debug|x86.Build.0 = Debug|x86
+		{CDAA0992-5E49-4444-89BE-AE0D4817D149}.Release|x86.ActiveCfg = Release|x86
+		{CDAA0992-5E49-4444-89BE-AE0D4817D149}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
